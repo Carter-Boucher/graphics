@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 
   // Position window at (80,80)-(480,380) and give it a title.
   glutInitWindowPosition(80, 80);
-  glutInitWindowSize(400, 300);
+  glutInitWindowSize(800, 600);
   glutCreateWindow("A Simple Triangle");
 
   // Tell GLUT that whenever the main window needs to be repainted that it
